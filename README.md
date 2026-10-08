@@ -21,4 +21,4 @@ Predict admission chances, hand out a "best school" verdict, or replace official
 
 Problem validated conceptually (Phases 1–10 complete). Verdict: **modify and narrow**, not build as originally scoped. No code yet — next step is real user interviews, then a prototype.
 
-This is the third project in a portfolio for AI Product Management / AI Strategy applications, following an AI-and-social-media-addiction project and [FitMatch](#).
+This is the third project in a portfolio for AI Product Management / AI Strategy applications, following an AI-and-social-media-addiction project and [FitMatch](https://github.com/nancy0807/fitmatch) 
